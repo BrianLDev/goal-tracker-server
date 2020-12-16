@@ -1,1 +1,4 @@
+CONNECT VIA MONGO SHELL:
 mongo "mongodb+srv://cluster0.icyqg.mongodb.net/goals" --username admin
+
+CONNECT PROGRAMMATICALLY VIA MONGO API
