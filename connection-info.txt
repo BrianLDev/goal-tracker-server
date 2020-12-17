@@ -3,7 +3,3 @@ mongo "mongodb+srv://cluster0.icyqg.mongodb.net/goals" --username admin
 
 CONNECT PROGRAMMATICALLY VIA MONGO API:
 
-
-RUN REALM CLI IN TERMINAL:
-realm-cli login --api-key BZJQCNHW --private-api-key <private API key>
-REPLACE <private API key> WITH THE ACTUAL PRIVATE API KEY
